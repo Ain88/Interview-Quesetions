@@ -1,4 +1,4 @@
-# Interview-Quesetions
+# Web Developer Interview Questions
 
 
 ## General
