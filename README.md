@@ -24,10 +24,15 @@ Do you have any questions?
 
 ## Technical (General)
 //agile, tdd, git flow (source control(version control)
+
 //difference between local storage, cookie, session
+
 //explain mvc
+
 //what is smart?
+
 //how internet work?
+
 
 ## Technical (Specific)
 1. Javascript
